@@ -20,5 +20,5 @@
 ## Where you can find me:
 <a href="https://www.linkedin.com/in/trevor-bruner-6679a072/"><img alt="LinkedIn" height="32" width="32" src="images/linkedin.svg"></a>
 <a href="https://twitter.com/TrevorABruner"><img alt="Twitter" height="32" width="32" src="images/twitter.svg"></a>
-<a href="https://www.codechef.com/users/brunertre"><img alt="CodeChef" height="32" width="32" src="images/codechef.jpeg"></a>
+<a href="https://www.codechef.com/users/brunertre"><img alt="CodeChef" height="32" width="32" src="images/codechef.jpfg"></a>
 [tbruner.github.io](http://tbruner.github.io)

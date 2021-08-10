@@ -18,6 +18,6 @@
 - Drawinng - I draw a variety of things but tend to do fan art
 
 ## Where you can find me:
-<a href="https://www.linkedin.com/in/trevor-bruner-6679a072/"><img alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg"></a>
-<a href="https://twitter.com/TrevorABruner"><img alt="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
+<a href="https://www.linkedin.com/in/trevor-bruner-6679a072/"><img alt="LinkedIn" height="32" width="32" src="images/linkedin.svg"></a>
+<a href="https://twitter.com/TrevorABruner"><img alt="Twitter" height="32" width="32" src="images/twitter.svg"></a>
 [tbruner.github.io](http://tbruner.github.io)

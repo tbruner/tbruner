@@ -6,15 +6,15 @@
 - Coding Competitions
 
 ### What I'm currently working on:
-- Finding a web development job
-- Learning Backend development
-- Learning Angular
+- Landing a front end web development job
+- Learning Node.js and MongoDB
+- Building games with Godot
 
 ### Interests outside of tech:
-- Video Games - currently playing Persona 5 Strikers
+- Video Games - currently playing Fire Emblem: Three Houses
 - Anime - currently watching Demon Slayer and Fruits Basket
 - Sports - Favorite Teams: Detroit Lions, Detroit Pistons, Western Michigan Broncos
-- Running - currently training for the Detroit Marathon, this will be my third marathon
+- Running - I've run three marathons with a PR of 3:57
 - Drawinng - I draw a variety of things but tend to do fan art
 
 ## Where you can find me:

@@ -1,24 +1,20 @@
-## Hi, I'm Trevor
+# Hi, I'm Trevor
 
-### Tech interests:
-- Web Development
-- Game Development
-- Coding Competitions
-
-### What I'm currently working on:
+## What I'm currently working on:
 - Landing a front end web development job
-- Learning Node.js and MongoDB
+- Mastering React and Typescript
+- Learning backend technologies like Node.js and MongoDB
 - Building games with Godot
 
-### Interests outside of tech:
-- Video Games - currently playing Fire Emblem: Three Houses
-- Anime - currently watching Demon Slayer and Fruits Basket
-- Sports - Favorite Teams: Detroit Lions, Detroit Pistons, Western Michigan Broncos
-- Running - I've run three marathons with a PR of 3:57
-- Drawinng - I draw a variety of things but tend to do fan art
+## Interests outside of coding:
+- 🕹️ Video Games - Currently playing 13 Sentinels: Aegis Rim
+- 📺 Anime - I'm currently watching Demon Slayer and Death Note
+- 🏈 Sports - Love to cheer on the Detroit Lions, Detroit Pistons, Detroit Tigers, and Western Michigan Broncos
+- 👟 Running - I've run three marathons with a PR of 3:57
+- 🇯🇵 日本語を学んでいます。
 
 ## Where you can find me:
 <a href="https://www.linkedin.com/in/trevor-bruner-6679a072/"><img alt="LinkedIn" height="32" width="32" src="images/linkedin.svg"></a>
 <a href="https://twitter.com/TrevorABruner"><img alt="Twitter" height="32" width="32" src="images/twitter.svg"></a>
-<a href="https://www.codechef.com/users/brunertre"><img alt="CodeChef" height="32" width="32" src="images/codechef.jpg"></a>
-[tbruner.github.io](http://tbruner.github.io)
+<a href="https://www.codechef.com/users/brunertre"><img alt="CodeChef" height="32" width="32" src="images/codechef-white.svg"></a>
+<a href="https://tbruner.github.io"><img alt="link" height="32" width="32" src="images/link.svg"></a>

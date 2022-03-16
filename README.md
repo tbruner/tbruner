@@ -14,7 +14,7 @@
 - 🇯🇵 日本語を学んでいます。
 
 ## Where you can find me:
-<a href="https://www.linkedin.com/in/trevor-bruner-6679a072/"><img alt="LinkedIn" height="32" width="32" src="images/linkedin.svg"></a>
-&nbsp;&nbsp;<a href="https://twitter.com/TrevorABruner"><img alt="Twitter" height="32" width="32" src="images/twitter.svg"></a>
-&nbsp;&nbsp;<a href="https://www.codechef.com/users/brunertre"><img alt="CodeChef" height="32" width="32" src="images/codechef-white.svg"></a>
-&nbsp;&nbsp;<a href="https://tbruner.github.io"><img alt="link" height="32" width="32" src="images/link.svg"></a>
+<a href="https://www.linkedin.com/in/trevor-bruner-6679a072/">LinkedIn</a>
+&nbsp;&nbsp;<a href="https://twitter.com/TrevorABruner">Twitter</a>
+&nbsp;&nbsp;<a href="https://www.codechef.com/users/brunertre">CodeChef</a>
+&nbsp;&nbsp;<a href="https://tbruner.github.io">Web Page</a>

@@ -20,4 +20,4 @@
 &nbsp;&nbsp;<a href="https://www.codechef.com/users/brunertre">CodeChef</a>
 &nbsp;&nbsp;<a href="https://tbruner.github.io">Web Page</a>
 
-[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D62wpm%26label%3Dmonkeytype%26logoVariant%3Done

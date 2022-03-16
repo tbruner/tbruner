@@ -20,7 +20,7 @@ jobs:
         with:
           # required:
           monkeytype_api_key: ${{ secrets.MONKEY_TYPE }}
-          mode: 'time'
+          mode: 'words'
           mode2: '30'
           # not required with default:
           style: 'flat'

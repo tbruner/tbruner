@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     # it shouldn't take longer than a few minutes
     # but leave a timeout here in case monkeytype server hangs
-    timeout-minutes: 10
+    timeout-minutes: 60
     steps:
       - uses: vnphanquang/monkeytype-readme@main
         with:

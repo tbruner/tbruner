@@ -2,8 +2,6 @@
 
 ## What I'm currently working on:
 - Landing a front end web development job
-- Mastering React and Typescript
-- Learning backend technologies like Node.js and MongoDB
 - Building games with Godot
 
 ## Interests outside of coding:

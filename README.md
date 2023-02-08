@@ -13,7 +13,6 @@
 - [![monkeytype.badge]](https://monkeytype.com/)
 
 ## Where you can find me:
-<a href="https://www.linkedin.com/in/trevor-bruner-6679a072/">LinkedIn</a>
 &nbsp;&nbsp;<a href="https://twitter.com/TrevorABruner">Twitter</a>
 &nbsp;&nbsp;<a href="https://www.codechef.com/users/brunertre">CodeChef</a>
 &nbsp;&nbsp;<a href="https://tbruner.github.io">Web Page</a>

@@ -5,11 +5,17 @@
 - Building games with Godot
 
 ## Interests outside of coding:
+
 🕹️ Video Games - Currently playing Persona 3 Portable
-📺 Anime - I'm currently watching Jujutsu Kaisen
+
+📺 Anime - I'm currently watching SPY X FAMILY
+
 🏈 Sports - Love to cheer on the Detroit Lions, Detroit Pistons, Detroit Tigers, and Western Michigan Broncos
+
 👟 Running - I've run three marathons with a PR of 3:57
+
 🇯🇵 日本語を学んでいます。
+
 [![monkeytype.badge]](https://monkeytype.com/)
 
 ## Where you can find me:

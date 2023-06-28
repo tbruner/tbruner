@@ -32,4 +32,9 @@
 
 [![monkeytype.badge]](https://monkeytype.com/)
 
+<div align="center">
+  <div>Visitor count</div>
+<img src="https://profile-counter.glitch.me/{tbruner}/count.svg" />
+</div>
+
 [monkeytype.badge]: https://img.shields.io/endpoint?label=monkeytype&style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D95wpm%26label%3D...%26logoVariant%3Done%26style%3Dflat-square
